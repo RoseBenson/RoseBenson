@@ -7,7 +7,7 @@ I'm a **Software Developer** passionate about building and maintaining clean, fu
 
 - 🌱 Continuously growing my skills in modern languages, AI intergration and modern software development
 - 🎨 I love creating intuitive UI/UX experiences
-- 🔐 Most Interested in **web security** **SRE** **Machine Learning** and best practices
+- 🔐 Most Interested in **web security** , **SRE** , **Machine Learning** and best practices
 - 🛠️ I build real-world projects to sharpen my craft
 - 📍 Open to collaborations and new opportunities!
 
@@ -73,7 +73,7 @@ A **JavaScript** finance analysis tool that processes and analyses financial dat
 ## 📬 Get In Touch
 
 - 💼 [GitHub Profile](https://github.com/RoseBenson)
-- 🌐 Check out my live projects above!
+- 🌐 Check out my live projects above and some more below!
 
 ---
 
