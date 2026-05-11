@@ -1,6 +1,6 @@
 # Hi there, I'm Rose Benson 👋
 
-I'm a **Software & DevOps Engineer ** passionate about building and maintaining clean, functional, and user-friendly applications.
+I'm a **Software & DevOps Engineer** passionate about building and maintaining clean, functional, and user-friendly applications.
 ---
 
 ## About Me
@@ -65,15 +65,15 @@ A **JavaScript** finance analysis tool that processes and analyses financial dat
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoseBenson&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
-- 💼 [GitHub Profile](https://github.com/RoseBenson)
+- [GitHub Profile](https://github.com/RoseBenson)
 - 🌐 Check out my live projects above and some more below!
 
 ---
