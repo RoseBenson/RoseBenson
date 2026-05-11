@@ -3,7 +3,7 @@
 I'm a **Software & DevOps Engineer ** passionate about building and maintaining clean, functional, and user-friendly applications.
 ---
 
-## 🚀 About Me
+## About Me
 
 - Continuously growing my skills in modern languages, AI intergration and modern software development
 - DevOps enthusiast 
